@@ -1,3 +1,3 @@
 # AI_uni
-
-Sztuczna Inteligencja Laboratorium
+Mykyta Tarakanov
+Sztuczna Inteligencja Laboratorium 
